@@ -14,3 +14,11 @@ To set up:
 * `rails s`
 
 * type 'localhost:3000' in the URL
+
+
+### Fixed Bugs
+* Users can add products to their shopping cart from the index page with AJAX
+* Users can click on a product and show/hide the product detail using AJAX
+* Users can remove items from the shopping cart without a page reload
+* Product divs maintain equal heights
+* Users can not enter negative product values
