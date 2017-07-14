@@ -2,9 +2,9 @@
 
   <%= form_for @product, html: {multipart: true } do |f| %>
     Name: <%= f.text_field :name %>
-    Image: <%= f.file_field :image_file_name %>
+    Image: <%= f.file_field :image %>
     Description: <%= f.text_field :description %>
-    Price: <%= f.number_field :price %>
+    Price: <%= f.number_field :price, class: :text_field, step: :any %>
   <%= f.submit "Submit" %>
 
 <% end %>

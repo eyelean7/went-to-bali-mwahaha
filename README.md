@@ -22,3 +22,4 @@ To set up:
 * Users can remove items from the shopping cart without a page reload
 * Product divs maintain equal heights
 * Users can not enter negative product values
+* Add new product link for admin
