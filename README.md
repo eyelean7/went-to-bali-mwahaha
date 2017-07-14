@@ -23,3 +23,5 @@ To set up:
 * Product divs maintain equal heights
 * Users can not enter negative product values
 * Add new product link for admin
+* Can add image to product using Paperclip
+* Can add prices with decimal value
