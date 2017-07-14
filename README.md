@@ -25,3 +25,4 @@ To set up:
 * Add new product link for admin
 * Can add image to product using Paperclip
 * Can add prices with decimal value
+* Validates product parameters
